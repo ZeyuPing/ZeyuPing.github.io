@@ -15,9 +15,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.Eng. (Expected)
+    - title: B.Eng. in Computer Science and Technology (Expected)
       institution: Sun Yat-sen University, Guangzhou, China
-      year: 2023 - 2027
+      year: 2023.09 - 2027.06
 
 - title: Research Experience
   type: time_table
@@ -27,6 +27,21 @@
       year: 2025 - Present
       description:
         - Conducting research on dexterous manipulation and robot learning for real-world robotic systems.
+
+- title: Research Projects
+  type: time_table
+  contents:
+    - title: Learning from Human Videos
+      institution: TEA Lab, Tsinghua University
+      year: 2025.04 - 2025.10
+      description:
+        - Reconstructing 3D object meshes from RGB-D videos.
+        - Training a residual policy to fine-tune retargeted actions from human hands.
+    - title: Robot Pianist
+      institution: TEA Lab, Tsinghua University
+      year: Ongoing
+      description:
+        - Training dexterous hands with reinforcement learning algorithms.
 
 - title: Publications
   type: time_table
@@ -54,3 +69,8 @@
   type: list
   contents:
     - <u>Hobbies:</u> Piano, soccer, and mobile gaming.
+
+- title: Skills
+  type: list
+  contents:
+    - <u>Programming & Tools:</u> Python, Isaac, MuJoCo.
