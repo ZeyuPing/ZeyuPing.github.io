@@ -31,7 +31,7 @@
 - title: Publications
   type: time_table
   contents:
-    - title: UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos
+    - title: "UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos"
       institution: arXiv preprint
       year: 2026
       description:

@@ -30,6 +30,7 @@ latest_posts:
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+
 I am Zeyu Ping, an undergraduate student at Sun Yat-sen University and a researcher at TEA Lab, Tsinghua University, supervised by Prof. Huazhe Xu.
 
 My research focuses on robot learning for dexterous manipulation. I am particularly interested in reinforcement learning, imitation learning, and robot foundation models for building intelligent dexterous hand systems that enable human-like manipulation on real hardware.
